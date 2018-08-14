@@ -10,3 +10,4 @@ cmake
 JSAnimation
 sklearn
 pandas
+h5py
